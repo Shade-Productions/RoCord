@@ -1,1 +1,1 @@
-https://cdn.wearedevs.net/scripts/OwlHub.txt
+loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/OwlHub.txt"))()
