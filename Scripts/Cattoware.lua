@@ -1,1 +1,1 @@
-https://cattoware.xyz/script.lua
+loadstring(game:HttpGet("https://cattoware.xyz/script.lua"))()
