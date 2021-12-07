@@ -44,16 +44,28 @@ After doing everything correctly with no error ouput, head back to the server yo
 # How to use RoCord
 To start using its commands you must first know the commands. Type in any chat `[prefix]help`, example: `!help`. You should be given a list of commands in a embed sent by the bot.
 
-Some commands require a `string`, `int/integer`, `file` or nothing at all. You might be wondering, *what do these?*
+Some commands require a `string`, `int/integer`, `file` or nothing at all. You might be wondering, *what are these?*
 
 <details open="open">
-  <summary></summary>
+  <summary>Data Types</summary>
     <ol>
       <li><a>string</a></li>
           <ul><li><a>Requires a sequence of characters. Example: JoeMama69420</a></li></ul>
       <li><a>int/integer</a></li>
-          <ul><li><a>Requires a value of numbers. Example: 69</a></li></ul>
+          <ul><li><a>Requires a value of whole numbers. Example: 69</a></li></ul>
       <li><a>file</a></li>
           <ul><li><a>Requires a file attached to a command. Example: !execfile [Attached File]</a></li></ul>
+    </ol>
+</details>
+
+<details open="open">
+  <summary>Usage Of Commands</summary>
+    <ol>
+      <li><a></a></li>
+          <ul><li><a></a></li></ul>
+      <li><a></a></li>
+          <ul><li><a></a></li></ul>
+      <li><a></a></li>
+          <ul><li><a></a></li></ul>
     </ol>
 </details>
