@@ -8,7 +8,7 @@
     <br />
     <a href="https://github.com/Shade-Productions/RoCord/raw/main/Download/RoCord.exe">Download</a>
     ·
-    <a href="https://github.com/Shade-Productions/RoCord/blob/main/Download/Update.md">Update Log</a>
+    <a href="https://github.com/Shade-Productions/RoCord/blob/main/Download/README.md">Update Log</a>
     ·
     <a href="https://github.com/Shade-Productions/RoCord/issues">Report Bug</a>
     ·
