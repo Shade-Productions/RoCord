@@ -17,7 +17,7 @@
 </p>
 
 ## Discord Bot Setup
-Head over to [Discord Developer Portal](https://discord.com/developers/applications) and create a `New Application`. Name the application whatever you want and click `Create`. 
+Head over to [Discord Developer Portal](https://discord.com/developers/applications) and create a `New Application`. Name the application whatever you want and then click `Create`. 
 
 Locate yourself to `Bot` and click `Add Bot`. After doing so you want to re-locate yourself to `OAuth2` and copy the bots `CLIENT ID`. From there open [Discord Permissions Calculator](https://discordapi.com/permissions.html). 
 
@@ -41,31 +41,32 @@ It will ask you for a character. This character is your prefix, it used to verif
 
 After doing everything correctly with no error ouput, head back to the server you invited the bot to. It should be online.
 
+### Image Example:
+<img src="https://cdn.discordapp.com/attachments/917845384620040193/917856806255071333/9dPTLHHL.png">
+<img src="https://cdn.discordapp.com/attachments/917845384620040193/917857266013716480/cnQhgfQP.png">
+<img src="https://cdn.discordapp.com/attachments/917845384620040193/917858095701581874/uiADDBvQ.png">
+
 # How to use RoCord
 To start using its commands you must first know the commands. Type in any chat `[prefix]help`, example: `!help`. You should be given a list of commands in a embed sent by the bot.
 
-Some commands require a `string`, `int/integer`, `file` or nothing at all. You might be wondering, *what are these?*
+Some commands require a `string`, `int/integer`, `file` or nothing at all (`null`). You might be wondering, *what are these?*
 
 <details open="open">
-  <summary>Data Types</summary>
+  <summary>Data Types & Examples</summary>
     <ol>
-      <li><a>string</a></li>
-          <ul><li><a>Requires a sequence of characters. Example: JoeMama69420</a></li></ul>
-      <li><a>int/integer</a></li>
-          <ul><li><a>Requires a value of whole numbers. Example: 69</a></li></ul>
-      <li><a>file</a></li>
-          <ul><li><a>Requires a file attached to a command. Example: !execfile [Attached File]</a></li></ul>
+      <li><a>string - Requires a sequence of characters</a></li>
+          <ul><li><a>whois ROBLOX</a></li></ul>
+      <li><a>int/integer - Requires a value of whole numbers</a></li>
+          <ul><li><a>ws 420</a></li></ul>
+      <li><a>null - Requires nothing</a></li>
+          <ul><li><a>!rblxversion</a></li></ul>
+      <li><a>file - Requires a file attached to a command</a></li>
+          <ul><li><a>!execfile DeepPain.lua</a></li></ul>
     </ol>
 </details>
 
-<details open="open">
-  <summary>Usage Of Commands</summary>
-    <ol>
-      <li><a></a></li>
-          <ul><li><a></a></li></ul>
-      <li><a></a></li>
-          <ul><li><a></a></li></ul>
-      <li><a></a></li>
-          <ul><li><a></a></li></ul>
-    </ol>
-</details>
+### Image Example:
+<img src="https://cdn.discordapp.com/attachments/917845384620040193/917859119233396736/s7Lo6kEf.png">
+<img src="https://cdn.discordapp.com/attachments/917845384620040193/917861690022957106/pKXATGB7.png">
+<img src="https://cdn.discordapp.com/attachments/917845384620040193/917859421193912350/lA2r2HGJ.png">
+<img src="https://cdn.discordapp.com/attachments/917845384620040193/917861076194963567/ptrdvFqC.gif">
