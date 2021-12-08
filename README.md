@@ -61,8 +61,7 @@ After doing everything correctly with no error ouput, head back to the server yo
 <img src="https://cdn.discordapp.com/attachments/917845384620040193/917858095701581874/uiADDBvQ.png">
 
 # How to use RoCord
-
-There are also multiple methods of using commands.
+There are multiple methods of using commands.
 <details open="open">
   <summary>Methods Of Using Commands</summary>
     <ol>
