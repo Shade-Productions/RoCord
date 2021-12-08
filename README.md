@@ -81,12 +81,12 @@ Some commands require a `string`, `int/integer`, `file` or nothing at all (`null
     <ol>
       <li><a>string - Requires a sequence of characters</a></li>
           <ul><li><a>whois ROBLOX</a></li></ul>
-      <li><a>int/integer - Requires a value of whole numbers</a></li>
+      <li><a>int/integer - Requires a whole number</a></li>
           <ul><li><a>ws 420</a></li></ul>
       <li><a>null - Requires nothing</a></li>
-          <ul><li><a>!rblxversion</a></li></ul>
+          <ul><li><a>rblxversion</a></li></ul>
       <li><a>file - Requires a file attached to a command</a></li>
-          <ul><li><a>!execfile DeepPain.lua</a></li></ul>
+          <ul><li><a>execfile DeepPain.lua</a></li></ul>
     </ol>
 </details>
 
