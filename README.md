@@ -61,6 +61,18 @@ After doing everything correctly with no error ouput, head back to the server yo
 <img src="https://cdn.discordapp.com/attachments/917845384620040193/917858095701581874/uiADDBvQ.png">
 
 # How to use RoCord
+
+There are also multiple methods of using commands.
+<details open="open">
+  <summary>Methods Of Using Commands</summary>
+    <ol>
+      <li>Text Channel</a></li>
+          <ul><li><a>Using normal Discord server text channels.</a></li></ul>
+      <li><a>Direct Messages</a></li>
+          <ul><li><a>Direct messaging the Discord bot.</a></li></ul>
+    </ol>
+</details>
+
 To start using its commands you must first know the commands. Type in any chat `[prefix]help`, example: `!help`. You should be given a list of commands in a embed sent by the bot.
 
 Some commands require a `string`, `int/integer`, `file` or nothing at all (`null`). You might be wondering, *what are these?*
