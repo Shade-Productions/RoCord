@@ -16,6 +16,20 @@
   </p>
 </p>
 
+## Server Setup
+Head over to Discord and look for the `+` symbol on your left. Press it and click `Create my own`, from there click any of the two options. Name the server whatever you want and upload an icon if you feel like it. After doing so press `Create`.
+
+You should already have a voice channel and a text channel *(which is one of the methods for using commands)* already made. You can edit these if you want. 
+
+Now that the server is up, lets create the bot.
+
+### Image Example:
+<img src="https://cdn.discordapp.com/attachments/897521871271100466/918171590351552642/x7TZ9UqX.png">
+<img src="https://cdn.discordapp.com/attachments/897521871271100466/918171734564306944/ZslYkVqz.png">
+<img src="https://cdn.discordapp.com/attachments/897521871271100466/918171961295786084/dmfDL8MQ.png">
+<img src="https://cdn.discordapp.com/attachments/897521871271100466/918172066249838612/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/897521871271100466/918172336782450769/dRnQRpTO.png">
+
 ## Discord Bot Setup
 Head over to [Discord Developer Portal](https://discord.com/developers/applications) and create a `New Application`. Name the application whatever you want and then click `Create`. 
 
