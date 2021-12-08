@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a>
     <img src="https://raw.githubusercontent.com/Shade-Productions/RoCord/main/Config/RoCordText.png" alt="Logo">
   </a>
 
