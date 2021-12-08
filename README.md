@@ -16,6 +16,16 @@
   </p>
 </p>
 
+<details open="open">
+  <summary>Setup</summary>
+    <ol>
+      <li><a href="#server-setup">Server Setup</a></li>
+      <li><a href="#discord-bot-setup">Discord Bot Setup</a></li>
+      <li><a href="#rocord-setup">RoCord Setup</a></li>
+      <li><a href="#how-to-use-rocord">How To Use RoCord</a></li>
+    </ol>
+</details>
+
 # Server Setup
 Head over to Discord and look for the `+` symbol on your left. Press it and click `Create my own`, from there click any of the two options. Name the server whatever you want and upload an icon if you feel like it. After doing so press `Create`.
 
