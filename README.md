@@ -17,7 +17,7 @@
 </p>
 
 <details open="open">
-  <summary>Setup</summary>
+    <summary>Index</summary>
     <ol>
       <li><a href="#server-setup">Server Setup</a></li>
       <li><a href="#discord-bot-setup">Discord Bot Setup</a></li>
