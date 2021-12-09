@@ -16,7 +16,14 @@
   </p>
 </p>
 
-## Version 1.1.0
+<details open="open">
+    <summary>Versions</summary>
+    <ol>
+      <li><a href="#version-110">1.1.0</a></li>
+    </ol>
+</details>
+
+# Version 1.1.0
 <details open="open">
   <summary>Added</summary>
     <ol>
